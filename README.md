@@ -1,5 +1,5 @@
 # img
-![Alt text](https://github.com/NdAmilcar/React-DragAndDrop/blob/main/dnd.png "Optional Title")
+![Alt text](https://github.com/NdAmilcar/React-DragAndDrop/blob/main/dnd.png "img React-DnD")
 
 
 # Getting Started with Create React App
